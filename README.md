@@ -1,0 +1,2 @@
+# OtaServer
+game server
